@@ -7,6 +7,6 @@ class Quotes{
   static List images_list = [
     "assets/images/dummy1.jpg",
     "assets/images/dummy2.jpg",
-    "assets/images/dummy3.jpg"
-  ]
+    "assets/images/dummy3.jpg",
+  ];
 }
