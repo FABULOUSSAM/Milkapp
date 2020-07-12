@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:milk_app/ui/screens/splash_screen.dart';
 
 class AppUi extends StatefulWidget {
@@ -9,6 +10,9 @@ class AppUi extends StatefulWidget {
 class _AppUiState extends State<AppUi> {
   @override
   Widget build(BuildContext context) {
+    SystemChrome.setPreferredOrientations([
+      DeviceOrientation.portraitUp,
+    ]);
     return Scaffold(
       body: Stack(
         children: <Widget>[

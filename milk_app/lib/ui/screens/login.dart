@@ -90,7 +90,7 @@ class _LoginState extends State<Login> {
           height: 50.0,
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(12.0),
-            color: Colors.blue,
+            color: Colors.lightBlueAccent.shade200,
           ),
           child: Text(text, style: TextStyle(color: Colors.white),),
         ),

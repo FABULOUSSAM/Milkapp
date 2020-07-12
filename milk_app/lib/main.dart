@@ -9,9 +9,7 @@ void main() => runApp(
     new MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Animations',
-      theme: ThemeData(
-        primarySwatch: Colors.blue
-      ),
+      theme:ThemeData.dark(),
       home: AppUi(),
     )
 );

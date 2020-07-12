@@ -8,5 +8,5 @@ class Quotes{
     "assets/images/dummy1.jpg",
     "assets/images/dummy2.jpg",
     "assets/images/dummy3.jpg"
-  ]
+  ];
 }

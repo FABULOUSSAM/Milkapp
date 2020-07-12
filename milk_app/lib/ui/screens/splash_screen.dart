@@ -17,13 +17,17 @@ class _SplashScreenUIState extends State<SplashScreenUI> {
       child: Padding(
         padding: const EdgeInsets.only(top: 50.0),
         child: SplashScreen(
-          title: Text(
-              "Milk Mobile App"
+//          title: Text(
+//            "Milk Mobile App",
+//            style: TextStyle(color: Colors.black),
+//          ),
+          loadingText: Text(
+            "Milk Mobile App",
+            style: TextStyle(color: Colors.black),
           ),
-          loadingText: Text("Milk Mobile App"),
           seconds: 8,
           backgroundColor: Colors.white,
-          loaderColor: Colors.white,
+//          loaderColor: Colors.white,
           image: Image.asset(
             'assets/images/sugoi.gif',
             fit: BoxFit.cover,

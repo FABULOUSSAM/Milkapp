@@ -1,11 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-MERGED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\2b16ac6c4193835014f293427ee35afa\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\86383f8b4f3242638afa67b42b481793\firebase-auth-19.1.0\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\448d2ca77bb72ad88157aa1976c96d0b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:2:1-26:12
@@ -32,25 +32,25 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Jiten Patel\
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\3c12c84374a1640ff9c935309de50b3f\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\1d7e19c1d5b8815de4f1771e25597491\protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\058b88cf3f6a28eaa1294ddbca210f49\grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:2:5-35
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:8:5-46:19
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:8:5-46:19
 MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\86383f8b4f3242638afa67b42b481793\firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\86383f8b4f3242638afa67b42b481793\firebase-auth-19.1.0\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\448d2ca77bb72ad88157aa1976c96d0b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:16:5-24:19
@@ -72,59 +72,59 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ji
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\a528b13ac93e64cafa3d0480e2c93207\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:10:9-33
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:10:9-33
 	android:icon
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:11:9-43
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:11:9-43
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:9:9-57
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:9:9-57
 activity#com.example.milk_app.MainActivity
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:12:9-40:20
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:12:9-40:20
 	android:launchMode
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:14:13-43
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:14:13-43
 	android:hardwareAccelerated
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:17:13-47
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:17:13-47
 	android:windowSoftInputMode
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:18:13-55
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:18:13-55
 	android:configChanges
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:16:13-163
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:16:13-163
 	android:theme
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:15:13-47
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:15:13-47
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:13:13-41
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:13:13-41
 meta-data#io.flutter.embedding.android.NormalTheme
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:23:13-26:17
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:23:13-26:17
 	android:resource
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:25:15-52
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:25:15-52
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:24:15-70
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:24:15-70
 meta-data#io.flutter.embedding.android.SplashScreenDrawable
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:32:13-35:17
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:32:13-35:17
 	android:resource
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:34:15-61
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:34:15-61
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:33:15-79
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:33:15-79
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:36:13-39:29
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:36:13-39:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:37:17-68
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:37:17-68
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:38:17-76
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:38:27-74
 meta-data#flutterEmbedding
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:43:9-45:33
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:43:9-45:33
 	android:value
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:45:13-30
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:45:13-30
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml:44:13-44
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml:44:13-44
 uses-sdk
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\2b16ac6c4193835014f293427ee35afa\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\2b16ac6c4193835014f293427ee35afa\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\86383f8b4f3242638afa67b42b481793\firebase-auth-19.1.0\AndroidManifest.xml:21:5-44
@@ -177,20 +177,20 @@ MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Jit
 MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\1d7e19c1d5b8815de4f1771e25597491\protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\058b88cf3f6a28eaa1294ddbca210f49\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
 MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\058b88cf3f6a28eaa1294ddbca210f49\grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
-INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml:6:5-66
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\448d2ca77bb72ad88157aa1976c96d0b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
 MERGED from [com.google.firebase:firebase-firestore:21.3.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\448d2ca77bb72ad88157aa1976c96d0b\jetified-firebase-firestore-21.3.0\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from C:\Users\Jiten Patel\Desktop\milk_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+		ADDED from C:\Users\Jiten Patel\Desktop\Milkapp\milk_app\android\app\src\debug\AndroidManifest.xml:6:22-64
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.1.0] C:\Users\Jiten Patel\.gradle\caches\transforms-2\files-2.1\86383f8b4f3242638afa67b42b481793\firebase-auth-19.1.0\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
